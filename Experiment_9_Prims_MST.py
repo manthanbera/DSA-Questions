@@ -1,5 +1,4 @@
 # Experiment 9 Prims MST
-# Extracted from: Experiment_9_Prims_MST_Manthan_Bera(1).docx
 
 class Graph:
     def __init__(self, vertices):
