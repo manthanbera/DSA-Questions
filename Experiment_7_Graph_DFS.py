@@ -1,5 +1,4 @@
 # Experiment 7 Graph DFS
-# Extracted from: Experiment_7_Graph_DFS_Manthan_Bera(1).docx
 
 class Graph:
     def __init__(self, vertices):
