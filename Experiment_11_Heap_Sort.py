@@ -1,5 +1,4 @@
 # Experiment 11 Heap Sort
-# Extracted from: Experiment_11_Heap_Sort_Manthan_Bera(1).docx
 
 def heapify(arr, n, root, heap_type):
     """
