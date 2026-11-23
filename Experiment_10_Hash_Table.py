@@ -1,5 +1,4 @@
 # Experiment 10 Hash Table
-# Extracted from: Experiment_10_Hash_Table_Manthan_Bera(1).docx
 
 class HashTable:
     def __init__(self, size, replacement=False):
