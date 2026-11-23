@@ -1,5 +1,4 @@
 # Experiment 6A BST Levelwise
-# Extracted from: Experiment_6A_BST_Levelwise_Manthan_Bera(1).docx
 
 from collections import deque
 
