@@ -1,5 +1,4 @@
 # Experiment 5 BST NonRecursive Traversal
-# Extracted from: Experiment_5_BST_NonRecursive_Traversal_Manthan_Bera(1).docx
 
 class Node:
     def __init__(self, data):
