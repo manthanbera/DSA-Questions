@@ -1,5 +1,4 @@
 # Experiment 8 Graph BFS
-# Extracted from: Experiment_8_Graph_BFS_Manthan_Bera(1).docx
 
 from collections import deque
 
